@@ -7,7 +7,7 @@
 
 **This will be bold with double asterisks**
 
-![image](/beach.jpeg)
+![image](/beach.jpeg) \
 __What does this do dunder both sides?__
 
 Block quote
